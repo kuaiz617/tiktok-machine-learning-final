@@ -1,4 +1,4 @@
-# Tiktok User Behavior Analysis Based on Data Mining
+# TikTok User Behavior Analysis Based on Data Mining
 
 ## Overview
 This project analyzes large-scale user browsing behavior data from Douyin (TikTok China) using data mining and machine learning techniques.  
