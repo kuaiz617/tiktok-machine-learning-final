@@ -9,6 +9,10 @@ By examining user, creator, and content-level features, the project aims to unco
 - Time period: 2019
 - Size: 1,737,312 user interaction records
 - Platform: Douyin (TikTok China)
+- Due to GitHub file size limitations, this repository includes a randomly sampled subset
+(10,000 rows) of the original dataset for demonstration and reproducibility purposes.
+All analyses in the thesis were conducted on the full dataset.
+
 
 ### Key Fields
 - User: `uid`, `user_city`
