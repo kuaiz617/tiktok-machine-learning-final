@@ -1,4 +1,4 @@
- HEAD
+ 
 # TikTok (Douyin) User Behavior Analysis Based on Data Mining
 
 ## Overview
@@ -39,7 +39,7 @@ By examining user, creator, and content-level features, the project aims to unco
 - Interaction: `like`, `finish`
 - Time: `real_time`, `date`
 
-<<<<<<< HEAD
+
 ---
 
 ## Key Findings & Results
@@ -97,7 +97,7 @@ This indicates that while behavioral features contain signal, user “like” be
 - Binary classification with ROC-AUC evaluation
 
 ---
-=======
+
 ## Data Preprocessing
 - Removed irrelevant fields (e.g. `Unnamed: 0`)
 - Checked and confirmed no missing or duplicate records
@@ -156,14 +156,14 @@ Visualizations were created using line charts, pie charts, and funnel charts.
 - Evaluation metric: ROC-AUC
 - Hyperparameter tuning performed using GridSearchCV
 - Random Forest achieved the best overall performance among tested models
->>>>>>> 50d29bb (update README before codespace deletion)
+
 
 ## Tools & Technologies
 - Python
 - pandas, numpy
 - scikit-learn
 - mlxtend
-<<<<<<< HEAD
+
 - matplotlib, pyecharts
 
 ---
@@ -198,4 +198,4 @@ Models and artifacts are included for research reference rather than production 
 ## Notes
 This project focuses on demonstrating data mining and modeling techniques rather than building a production-level recommendation system.  
 All analyses are conducted on historical data for research and educational purposes.
->>>>>>> 50d29bb (update README before codespace deletion)
+
