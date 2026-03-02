@@ -176,10 +176,6 @@ Visualizations were created using line charts, pie charts, and funnel charts.
 
 ---
 
-## Notes
-This project emphasizes analytical reasoning and behavioral interpretation over system deployment.  
-Models and artifacts are included for research reference rather than production use.
-=======
 - pyecharts
 - matplotlib
 
