@@ -19,18 +19,6 @@ Due to GitHub file size limitations, this repository includes a randomly sampled
 (10,000 rows) of the original dataset for demonstration and reproducibility purposes.
 All analyses in the thesis were conducted on the full dataset.
 
-# TikTok User Behavior Analysis Based on Data Mining
-
-## Overview
-This project analyzes large-scale user browsing behavior data from Douyin (TikTok China) using data mining and machine learning techniques.  
-By examining user, creator, and content-level features, the project aims to uncover behavioral patterns, user interests, and content performance, and to explore data-driven approaches for recommendation, content optimization, and advertising targeting.
-
-## Dataset
-- Source: Public dataset from HeyWhale
-- Time period: 2019
-- Size: 1,737,312 user interaction records
-- Platform: Douyin (TikTok China)
- 
 
 ### Key Fields
 - User: `uid`, `user_city`
